@@ -1,3 +1,4 @@
 // More Objects Lab
 
-var recipe = {}
+var recipes = {}
+
